@@ -1,4 +1,4 @@
-opponent_choice = []                             # Declare an empty list named mylines.
+opponent_choice = []
 my_choice = []
 
 
